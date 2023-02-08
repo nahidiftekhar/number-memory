@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/number-memory-react-2/static/css/main.5cc96cd1.css",
-    "main.js": "/number-memory-react-2/static/js/main.8ba72582.js",
-    "static/js/787.5a26f3b6.chunk.js": "/number-memory-react-2/static/js/787.5a26f3b6.chunk.js",
-    "index.html": "/number-memory-react-2/index.html",
-    "main.5cc96cd1.css.map": "/number-memory-react-2/static/css/main.5cc96cd1.css.map",
-    "main.8ba72582.js.map": "/number-memory-react-2/static/js/main.8ba72582.js.map",
-    "787.5a26f3b6.chunk.js.map": "/number-memory-react-2/static/js/787.5a26f3b6.chunk.js.map"
+    "main.css": "/number-memory-react/static/css/main.5cc96cd1.css",
+    "main.js": "/number-memory-react/static/js/main.e326a686.js",
+    "static/js/787.5a26f3b6.chunk.js": "/number-memory-react/static/js/787.5a26f3b6.chunk.js",
+    "index.html": "/number-memory-react/index.html",
+    "main.5cc96cd1.css.map": "/number-memory-react/static/css/main.5cc96cd1.css.map",
+    "main.e326a686.js.map": "/number-memory-react/static/js/main.e326a686.js.map",
+    "787.5a26f3b6.chunk.js.map": "/number-memory-react/static/js/787.5a26f3b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cc96cd1.css",
-    "static/js/main.8ba72582.js"
+    "static/js/main.e326a686.js"
   ]
 }
